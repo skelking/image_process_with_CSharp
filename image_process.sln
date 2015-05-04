@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "image_process", "image_process\image_process.csproj", "{F0C0DC13-7447-4061-98A5-9EA6B9D3E605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0C0DC13-7447-4061-98A5-9EA6B9D3E605}.Debug|x86.ActiveCfg = Debug|x86
+		{F0C0DC13-7447-4061-98A5-9EA6B9D3E605}.Debug|x86.Build.0 = Debug|x86
+		{F0C0DC13-7447-4061-98A5-9EA6B9D3E605}.Release|x86.ActiveCfg = Release|x86
+		{F0C0DC13-7447-4061-98A5-9EA6B9D3E605}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
